@@ -1,5 +1,4 @@
 # SQL-lessons-for-Olaf
-SQL
 
 # 📘 SQL Notes
 
